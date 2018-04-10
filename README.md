@@ -15,3 +15,5 @@
   Краткое описание.
   Система для обновления\установки разных вариантов прошивок со съемного носителя в eMMC
   http://forum.khadas.com/t/multios-3in1-android-libreelec-linux-install-to-emmc/1198
+  
+  https://www.cnx-software.com/2016/11/19/how-to-create-a-bootable-recovery-sd-card-for-amlogic-tv-boxes/
