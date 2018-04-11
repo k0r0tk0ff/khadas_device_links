@@ -22,5 +22,7 @@
     ------------------------------------------------------------------------------  
   Install Gitlab to ARM Platform - 
   
-  https://github.com/ulm0/gitlab
+  https://github.com/ulm0/gitlab  
+  https://launchpad.net/ubuntu/+source/gitlab/  
+  
   
