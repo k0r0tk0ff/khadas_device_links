@@ -19,3 +19,8 @@
   https://www.cnx-software.com/2016/11/19/how-to-create-a-bootable-recovery-sd-card-for-amlogic-tv-boxes/  
   http://docs.khadas.com/bootcamp/UpgradeViaTFBurningCard/  
   
+    ------------------------------------------------------------------------------  
+  Install Gitlab to ARM Platform - 
+  
+  https://github.com/ulm0/gitlab
+  
